@@ -16,9 +16,10 @@
 }
 
 .clustrmaps {
-  text-align: left;
+  display: block !important;
+  margin-left: 0 !important;
+  text-align: left !important;
 }
-
 .ai {
 	display:inline-block;
 	font:normal normal normal 14px/1 Academicons;
