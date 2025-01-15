@@ -426,7 +426,7 @@
   
   Andrzej Reinke, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss
   
-- [Efficient localisation using images and OpenStreetMaps](https://ieeexplore.ieee.org/abstract/document/9635972)  [[PDF]](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/357101499_Efficient_Localisation_Using_Images_and_OpenStreetMaps/links/641d114c315dfb4ccea53804/Efficient-Localisation-Using-Images-and-OpenStreetMaps.pdf)[![](https://img.shields.io/github/stars/ZhouMengjie/Image-to-2.5DMap-Matching?style=social&label=Code+Stars)](https://github.com/ZhouMengjie/Image-to-2.5DMap-Matching)  
+- [Efficient localisation using images and OpenStreetMaps](https://ieeexplore.ieee.org/abstract/document/9635972)  [[PDF]](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/357101499_Efficient_Localisation_Using_Images_and_OpenStreetMaps/links/641d114c315dfb4ccea53804/Efficient-Localisation-Using-Images-and-OpenStreetMaps.pdf) [![](https://img.shields.io/github/stars/ZhouMengjie/Image-to-2.5DMap-Matching?style=social&label=Code+Stars)](https://github.com/ZhouMengjie/Image-to-2.5DMap-Matching)  
 
   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2021)***
   
