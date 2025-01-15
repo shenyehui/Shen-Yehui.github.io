@@ -432,7 +432,7 @@
   
   Mengjie Zhou, **<u>Xieyuanli Chen</u>**, Noe Samano, Cyrill Stachniss, Andrew Calway
   
-- [Mapping the static parts of dynamic scenes from 3D LiDAR point clouds exploiting ground segmentation](https://ieeexplore.ieee.org/abstract/document/9568799)  [[PDF]](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2021ecmr.pdf) 
+- [Mapping the static parts of dynamic scenes from 3D LiDAR point clouds exploiting ground segmentation](https://ieeexplore.ieee.org/abstract/document/9568799)  [[PDF]](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2021ecmr.pdf)[![](https://img.shields.io/github/stars/ZhouMengjie/Image-to-2.5DMap-Matching?style=social&label=Code+Stars)](https://github.com/ZhouMengjie/Image-to-2.5DMap-Matching) 
 
   *In Proc. of the Europ. Conf. on Mobile Robotics **(ECMR 2021)***
   
