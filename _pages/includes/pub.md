@@ -426,13 +426,13 @@
   
   Andrzej Reinke, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss
   
-- [Efficient localisation using images and OpenStreetMaps](https://ieeexplore.ieee.org/abstract/document/9635972)  [[PDF]](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/357101499_Efficient_Localisation_Using_Images_and_OpenStreetMaps/links/641d114c315dfb4ccea53804/Efficient-Localisation-Using-Images-and-OpenStreetMaps.pdf) 
+- [Efficient localisation using images and OpenStreetMaps](https://ieeexplore.ieee.org/abstract/document/9635972)  [[PDF]](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/357101499_Efficient_Localisation_Using_Images_and_OpenStreetMaps/links/641d114c315dfb4ccea53804/Efficient-Localisation-Using-Images-and-OpenStreetMaps.pdf)[![](https://img.shields.io/github/stars/ZhouMengjie/Image-to-2.5DMap-Matching?style=social&label=Code+Stars)](https://github.com/ZhouMengjie/Image-to-2.5DMap-Matching)  
 
   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2021)***
   
   Mengjie Zhou, **<u>Xieyuanli Chen</u>**, Noe Samano, Cyrill Stachniss, Andrew Calway
   
-- [Mapping the static parts of dynamic scenes from 3D LiDAR point clouds exploiting ground segmentation](https://ieeexplore.ieee.org/abstract/document/9568799)  [[PDF]](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2021ecmr.pdf)[![](https://img.shields.io/github/stars/ZhouMengjie/Image-to-2.5DMap-Matching?style=social&label=Code+Stars)](https://github.com/ZhouMengjie/Image-to-2.5DMap-Matching) 
+- [Mapping the static parts of dynamic scenes from 3D LiDAR point clouds exploiting ground segmentation](https://ieeexplore.ieee.org/abstract/document/9568799)  [[PDF]](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2021ecmr.pdf)
 
   *In Proc. of the Europ. Conf. on Mobile Robotics **(ECMR 2021)***
   
