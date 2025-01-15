@@ -40,6 +40,12 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.clustrmaps {
+  display: block !important;
+  margin-left: 0 !important;
+  text-align: left !important;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
