@@ -18,7 +18,7 @@
 
   *IEEE Robotics and Automation Letters **(RA-L)***
   
-  Xiao Li, **<u>Xieyuanli Chen</u>**, Ruibin Guo, Yujie Wu, Zongtan Zhou, Fangwen Yu, Huimin Lu
+   Fengkui Cao, Shaocong Wang, **<u>Xieyuanli Chen</u>**, Ting Wang, Lianging Liu
   
 ##  2024
 - [Fast and accurate deep loop closing and relocalization for reliable lidar slam](https://ieeexplore.ieee.org/abstract/document/10494918/) [[PDF]](https://arxiv.org/pdf/2309.08086)  [![](https://img.shields.io/github/stars/nubot-nudt/LCR-Net?style=social&label=Code+Stars)](https://github.com/nubot-nudt/LCR-Net)
