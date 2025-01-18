@@ -1,6 +1,25 @@
 <span id="publications"></span>
 
 # 📝 Publications
+##  2025
+- [RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning](https://arxiv.org/abs/2409.00206) [[PDF]](https://arxiv.org/pdf/2409.00206)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
+
+  *IEEE Transactions on Robotics (**T-RO**)*
+  
+  Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
+
+- [NeuroVE: Brain-inspired Linear-Angular Velocity Estimation with Spiking Neural Networks](https://ieeexplore.ieee.org/abstract/document/10839327)  [[PDF]](https://arxiv.org/pdf/2408.15663)  
+
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Xiao Li, **<u>Xieyuanli Chen</u>**, Ruibin Guo, Yujie Wu, Zongtan Zhou, Fangwen Yu, Huimin Lu
+  
+- [BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment] [![](https://img.shields.io/github/stars/ROBOT-WSC/BEV-LSLAM?style=social&label=Code+Stars)](https://github.com/ROBOT-WSC/BEV-LSLAM)
+
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Xiao Li, **<u>Xieyuanli Chen</u>**, Ruibin Guo, Yujie Wu, Zongtan Zhou, Fangwen Yu, Huimin Lu
+  
 ##  2024
 - [Fast and accurate deep loop closing and relocalization for reliable lidar slam](https://ieeexplore.ieee.org/abstract/document/10494918/) [[PDF]](https://arxiv.org/pdf/2309.08086)  [![](https://img.shields.io/github/stars/nubot-nudt/LCR-Net?style=social&label=Code+Stars)](https://github.com/nubot-nudt/LCR-Net)
 
@@ -8,7 +27,7 @@
   
   Chenghao Shi, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Bin Dai, Huimin Lu
 
-- [Category-Level Multi-Object 9D State Tracking Using Object-Centric Multi-Scale Transformer in Point Cloud Stream](https://ieeexplore.ieee.org/abstract/document/10814715) 
+- [Category-Level Multi-Object 9D State Tracking Using Object-Centric Multi-Scale Transformer in Point Cloud Stream](https://ieeexplore.ieee.org/abstract/document/10814715)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10814715)
 
   *IEEE Transactions on Multimedia **(T-MM)***
   
@@ -26,13 +45,13 @@
   
    Xiaoyu Tang, Zeyu Chen, Jintao Cheng, **<u>Xieyuanli Chen</u>**, Jin Wu, Bohuan Xue
   
-- [Joint scene flow estimation and moving object segmentation on rotational LiDAR data](https://ieeexplore.ieee.org/abstract/document/10623536/)  [![](https://img.shields.io/github/stars/nubot-nudt/SFEMOS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SFEMOS)
+- [Joint scene flow estimation and moving object segmentation on rotational LiDAR data](https://ieeexplore.ieee.org/abstract/document/10623536/)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10623536/) [![](https://img.shields.io/github/stars/nubot-nudt/SFEMOS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SFEMOS)
 
   *IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***
   
   **<u>Xieyuanli Chen</u>**, Jiafeng Cui, Yufei Liu, Xianjing Zhang, Jiadai Sun, Rui Ai, Weihao Gu, Jintao Xu, Huimin Lu
 
-- [IMPS: Informative Map Point Selection for Visual-Inertial SLAM](https://ieeexplore.ieee.org/abstract/document/10400950/) 
+- [IMPS: Informative Map Point Selection for Visual-Inertial SLAM](https://ieeexplore.ieee.org/abstract/document/10400950/)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10400950/)
 
   *IEEE Transactions on Intelligent Vehicles **(T-IV)***
   
@@ -146,7 +165,7 @@
    Jingyi Xu, Junyi Ma, Qi Wu, Zijie Zhou, Yue Wang, **<u>Xieyuanli Chen</u>**, Wenxian Yu, Ling Pei
 
 ##  2023
-- [CVTNet: A cross-view transformer network for LiDAR-based place recognition in autonomous driving environments](https://ieeexplore.ieee.org/abstract/document/10273716) [![](https://img.shields.io/github/stars/BIT-MJY/CVTNet?style=social&label=Code+Stars)](https://github.com/BIT-MJY/CVTNet)
+- [CVTNet: A cross-view transformer network for LiDAR-based place recognition in autonomous driving environments](https://ieeexplore.ieee.org/abstract/document/10273716)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10273716) [![](https://img.shields.io/github/stars/BIT-MJY/CVTNet?style=social&label=Code+Stars)](https://github.com/BIT-MJY/CVTNet)
 
   *IEEE Transactions on Industrial Informatics **(T-II)***
 
@@ -170,7 +189,7 @@
   
   Bailiang Chen, Kaihong Huang, Hainan Pan, Haoran Ren, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Wenqi Wu, Huimin Lu
   
-- [Extreme low-resolution action recognition with confident spatial-temporal attention transfer](https://link.springer.com/article/10.1007/s11263-023-01771-4) 
+- [Extreme low-resolution action recognition with confident spatial-temporal attention transfer](https://link.springer.com/article/10.1007/s11263-023-01771-4)  [[PDF]](https://link.springer.com/article/10.1007/s11263-023-01771-4)
 
   *Intl. Journal of Computer Vision **(IJCV)***
   
@@ -207,19 +226,19 @@
   
   Hao Dong, **<u>Xieyuanli Chen</u>**, Simo Särkkä, Cyrill Stachniss
     
-- [Deep Reinforcement Learning for Flipper Control of Tracked Robots in Urban Rescuing Environments](https://www.mdpi.com/2072-4292/15/18/4616) 
+- [Deep Reinforcement Learning for Flipper Control of Tracked Robots in Urban Rescuing Environments](https://www.mdpi.com/2072-4292/15/18/4616)  [[PDF]](https://www.mdpi.com/2072-4292/15/18/4616)
 
   *Remote Sensing*
   
   Hainan Pan, **<u>Xieyuanli Chen</u>**, Junkai Ren, Bailiang Chen, Kaihong Huang, Hui Zhang, Huimin Lu
   
-- [Deep LiDAR-radar-visual fusion for object detection in urban environments](https://www.mdpi.com/2072-4292/15/18/4433) 
+- [Deep LiDAR-radar-visual fusion for object detection in urban environments](https://www.mdpi.com/2072-4292/15/18/4433)  [[PDF]](https://www.mdpi.com/2072-4292/15/18/4433)
 
   *Remote Sensing*
   
   Yuhan Xiao, Yufei Liu, Kai Luan, Yuwei Cheng, **<u>Xieyuanli Chen</u>**, Huimin Lu
   
-- [RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping](https://www.mdpi.com/2072-4292/15/16/4040)  [![](https://img.shields.io/github/stars/nubot-nudt/RSS_LOAM_Datasets?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RSS_LOAM_Datasets) 
+- [RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping](https://www.mdpi.com/2072-4292/15/16/4040)  [[PDF]](https://www.mdpi.com/2072-4292/15/16/4040)  [![](https://img.shields.io/github/stars/nubot-nudt/RSS_LOAM_Datasets?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RSS_LOAM_Datasets) 
 
   *Remote Sensing*
   
@@ -282,7 +301,7 @@
   Liren Jin, **<u>Xieyuanli Chen</u>**, Julius Rückin, Marija Popović
   
   
-- [Kernel-Based Attention Network for Point Cloud Compression](https://ieeexplore.ieee.org/abstract/document/10354640/) 
+- [Kernel-Based Attention Network for Point Cloud Compression](https://ieeexplore.ieee.org/abstract/document/10354640/)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10354640/)
 
   *IEEE International Conference on Robotics and Biomimetics **(ROBIO 2023)***
   
@@ -295,7 +314,7 @@
 
   Junyi Ma, **<u>Xieyuanli Chen</u>**, Jingyi Xu, Guangming Xiong
   
-- [OverlapNet: a siamese network for computing LiDAR scan similarity with applications to loop closing and localization](https://link.springer.com/article/10.1007/s10514-021-09999-0) [![](https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars)](https://github.com/PRBonn/OverlapNet)
+- [OverlapNet: a siamese network for computing LiDAR scan similarity with applications to loop closing and localization](https://link.springer.com/article/10.1007/s10514-021-09999-0) [[PDF]](https://link.springer.com/article/10.1007/s10514-021-09999-0)  [![](https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars)](https://github.com/PRBonn/OverlapNet)
 
 
   *Autonomous Robots*
@@ -402,7 +421,7 @@
   
   Benedikt Mersch, **<u>Xieyuanli Chen</u>**, Jens Behley, Cyrill Stachniss
   
-- [Moving Object Segmentation for LiDAR-based Localization and Mapping](https://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer.pdf) 
+- [Moving Object Segmentation for LiDAR-based Localization and Mapping](https://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer.pdf) [[PDF]](https://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer.pdf)
 
   *Robotics: Science and Systems **(RSS 2021)** Pioneer Workshop*
   
@@ -458,7 +477,7 @@
   
   **<u>Xieyuanli Chen</u>**, Thomas Läbe, Lorenzo Nardi, Jens Behley, Cyrill Stachniss
 
-- [Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412) 
+- [Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412)  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412)
 
   *IEEE Access*
 
