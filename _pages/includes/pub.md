@@ -14,7 +14,7 @@
   
    Xiao Li, **<u>Xieyuanli Chen</u>**, Ruibin Guo, Yujie Wu, Zongtan Zhou, Fangwen Yu, Huimin Lu
   
-- [BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment] [![](https://img.shields.io/github/stars/ROBOT-WSC/BEV-LSLAM?style=social&label=Code+Stars)](https://github.com/ROBOT-WSC/BEV-LSLAM)
+- [BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment](https://ieeexplore.ieee.org/document/10845798) [![](https://img.shields.io/github/stars/ROBOT-WSC/BEV-LSLAM?style=social&label=Code+Stars)](https://github.com/ROBOT-WSC/BEV-LSLAM)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
   
