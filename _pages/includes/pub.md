@@ -8,6 +8,18 @@
   
   Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
 
+- [UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/abstract/document/10898027) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10898027)  [![](https://img.shields.io/github/stars/Gatsby23/UA-LIO?style=social&label=Code+Stars)](https://github.com/Gatsby23/UA-LIO)
+
+  *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*
+  
+  Qi Wu, **<u>Xieyuanli Chen</u>**, Xiangyu Xu, Xinliang Zhong, Xingwei Qu, Songpengcheng Xia, Guoqing Liu, Liu Liu, Wenxian Yu, Ling Pei
+
+ - [SGT-LLC: LiDAR Loop Closing Based on Semantic Graph with Triangular Spatial Topology](https://ieeexplore.ieee.org/abstract/document/10891171) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10891171)  [![](https://img.shields.io/github/stars/ROBOT-WSC/SGT-LLC?style=social&label=Code+Stars)](https://github.com/ROBOT-WSC/SGT-LLC)
+
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Shaocong Wang, Fengkui Cao, Ting Wang,**<u>Xieyuanli Chen</u>**, Shiliang Shao
+  
 - [NeuroVE: Brain-inspired Linear-Angular Velocity Estimation with Spiking Neural Networks](https://ieeexplore.ieee.org/abstract/document/10839327)  [[PDF]](https://arxiv.org/pdf/2408.15663)  
 
   *IEEE Robotics and Automation Letters **(RA-L)***
