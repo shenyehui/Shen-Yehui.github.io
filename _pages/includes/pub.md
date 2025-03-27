@@ -8,7 +8,7 @@
   
   Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
 
-- [UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/abstract/document/10898027) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10898027)  [![](https://img.shields.io/github/stars/Gatsby23/UA-LIO?style=social&label=Code+Stars)](https://github.com/Gatsby23/UA-LIO)
+- [UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/abstract/document/10898027) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10898027)
 
   *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*
   
@@ -26,11 +26,23 @@
   
    Xiao Li, **<u>Xieyuanli Chen</u>**, Ruibin Guo, Yujie Wu, Zongtan Zhou, Fangwen Yu, Huimin Lu
   
+- [UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation]([https://ieeexplore.ieee.org/abstract/document/10839327](https://ieeexplore.ieee.org/document/10937714))  [[PDF]](https://ieeexplore.ieee.org/document/10937714) [![](https://img.shields.io/github/stars/nubot-nudt/UGNA-VPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/UGNA-VPR)
+
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Yehui Shen, Lei Zhang, Qingqiu Li, Xiongwei Zhao, Yue Wang, Huimin Lu, **<u>Xieyuanli Chen</u>**
+  
 - [BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment](https://ieeexplore.ieee.org/document/10845798) [![](https://img.shields.io/github/stars/ROBOT-WSC/BEV-LSLAM?style=social&label=Code+Stars)](https://github.com/ROBOT-WSC/BEV-LSLAM)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
   
    Fengkui Cao, Shaocong Wang, **<u>Xieyuanli Chen</u>**, Ting Wang, Lianqing Liu
+
+- [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting][[PDF]](https://arxiv.org/pdf/2411.14169) 
+
+  *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2025)***
+
+  Jingyi Xu, **<u>Xieyuanli Chen</u>**, Junyi Ma, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei.
   
 ##  2024
 - [Fast and accurate deep loop closing and relocalization for reliable lidar slam](https://ieeexplore.ieee.org/abstract/document/10494918/) [[PDF]](https://arxiv.org/pdf/2309.08086)  [![](https://img.shields.io/github/stars/nubot-nudt/LCR-Net?style=social&label=Code+Stars)](https://github.com/nubot-nudt/LCR-Net)
