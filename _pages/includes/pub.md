@@ -26,7 +26,7 @@
   
    Xiao Li, **<u>Xieyuanli Chen</u>**, Ruibin Guo, Yujie Wu, Zongtan Zhou, Fangwen Yu, Huimin Lu
   
-- [UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation]([https://ieeexplore.ieee.org/abstract/document/10839327](https://ieeexplore.ieee.org/document/10937714))  [[PDF]](https://ieeexplore.ieee.org/document/10937714) [![](https://img.shields.io/github/stars/nubot-nudt/UGNA-VPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/UGNA-VPR)
+- [UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation](https://ieeexplore.ieee.org/abstract/document/10839327)  [[PDF]](https://ieeexplore.ieee.org/document/10937714) [![](https://img.shields.io/github/stars/nubot-nudt/UGNA-VPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/UGNA-VPR)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
   
