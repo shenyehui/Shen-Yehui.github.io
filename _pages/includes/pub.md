@@ -37,6 +37,12 @@
   *IEEE Robotics and Automation Letters **(RA-L)***
   
    Fengkui Cao, Shaocong Wang, **<u>Xieyuanli Chen</u>**, Ting Wang, Lianqing Liu
+    
+- [Self-Supervised Diffusion-Based Scene Flow Estimation and Motion Segmentation with 4D Radar](https://) [![](https://img.shields.io/github/stars/nubot-nudt/RadarSFEMOS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RadarSFEMOS)
+
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Yufei Liu, **<u>Xieyuanli Chen</u>**, Neng Wang, Stepan Andreev, Alexander Dvorkovich, Rui Fan, Huimin Lu
 
 - [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting][[PDF]](https://arxiv.org/pdf/2411.14169) 
 
