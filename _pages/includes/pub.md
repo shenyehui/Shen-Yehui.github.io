@@ -44,7 +44,7 @@
   
    Yufei Liu, **<u>Xieyuanli Chen</u>**, Neng Wang, Stepan Andreev, Alexander Dvorkovich, Rui Fan, Huimin Lu
 
-- [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting][[PDF]](https://arxiv.org/pdf/2411.14169) 
+- [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://)[[PDF]](https://arxiv.org/pdf/2411.14169) 
 
   *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2025)***
 
