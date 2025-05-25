@@ -68,13 +68,13 @@
   
    Rui Fan, Jiahang Li, Jiaqi Li, Jiale Wang, Ziwei Long, Ning Jia, Yanan Liu, Wenshuo Wang, Mohammud J Bocus, Sergey Vityazev,  **<u>Xieyuanli Chen</u>**, Junhao Xiao, Stepan Andreev, Huimin Lu, Alexander Dvorkovich
 
-- [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://)[[PDF]](https://arxiv.org/pdf/2411.14169) 
+- [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://) [[PDF]](https://arxiv.org/pdf/2411.14169) 
 
   *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2025)***
 
   Jingyi Xu, **<u>Xieyuanli Chen</u>**, Junyi Ma, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei
 
-- [EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar](https://ojs.aaai.org/index.php/AAAI/article/view/33092)[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33092/35247) 
+- [EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar](https://ojs.aaai.org/index.php/AAAI/article/view/33092) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33092/35247) 
 
   *In Proc. of the Conference on Advancements of Artificial Intelligence **(AAAI 2025)***
 
