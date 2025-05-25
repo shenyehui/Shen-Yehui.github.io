@@ -8,11 +8,29 @@
   
   Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
 
+ - [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://ieeexplore.ieee.org/abstract/document/10993479/) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10993479/)  [![](https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SegNet4D)
+
+  *IEEE Transactions on Automation Science and Engineering (**T-ASE**)*
+
+  Neng Wang, Ruibin Guo, Chenghao Shi, Ziyue Wang, Hui Zhang, Huimin Lu, Zhiqiang Zheng, **<u>Xieyuanli Chen</u>**
+
 - [UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/abstract/document/10898027) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10898027)
 
   *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*
   
   Qi Wu, **<u>Xieyuanli Chen</u>**, Xiangyu Xu, Xinliang Zhong, Xingwei Qu, Songpengcheng Xia, Guoqing Liu, Liu Liu, Wenxian Yu, Ling Pei
+  
+- [TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](https://ieeexplore.ieee.org/abstract/document/10981980/) [[PDF]](https://arxiv.org/pdf/2410.13240)  [![](https://img.shields.io/github/stars/Yaepiii/TRLO?style=social&label=Code+Stars)](https://github.com/Yaepiii/TRLO)
+
+  *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*
+  
+  Yanpeng Jia, Ting Wang, **<u>Xieyuanli Chen</u>**, Shiliang Shao
+  
+ - [RID-Net: A Hybrid MLP-Transformer network for Robust Point Cloud Registration](https://ieeexplore.ieee.org/document/10910198) [[PDF]](https://ieeexplore.ieee.org/document/10910198)  [![](https://img.shields.io/github/stars/PANFEI-CHENG/RID-Net?style=social&label=Code+Stars)](https://github.com/PANFEI-CHENG/RID-Net)
+
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Panfei Cheng, Hongshan Yu, Changxiang Liu, Kan Luo, Naveed Akhtar, **<u>Xieyuanli Chen</u>**
 
  - [SGT-LLC: LiDAR Loop Closing Based on Semantic Graph with Triangular Spatial Topology](https://ieeexplore.ieee.org/abstract/document/10891171) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10891171)  [![](https://img.shields.io/github/stars/ROBOT-WSC/SGT-LLC?style=social&label=Code+Stars)](https://github.com/ROBOT-WSC/SGT-LLC)
 
@@ -32,23 +50,35 @@
   
    Yehui Shen, Lei Zhang, Qingqiu Li, Xiongwei Zhao, Yue Wang, Huimin Lu, **<u>Xieyuanli Chen</u>**
   
-- [BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment](https://ieeexplore.ieee.org/document/10845798) [![](https://img.shields.io/github/stars/ROBOT-WSC/BEV-LSLAM?style=social&label=Code+Stars)](https://github.com/ROBOT-WSC/BEV-LSLAM)
+- [BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment](https://ieeexplore.ieee.org/document/10845798) [[PDF]](https://ieeexplore.ieee.org/document/10845798) [![](https://img.shields.io/github/stars/ROBOT-WSC/BEV-LSLAM?style=social&label=Code+Stars)](https://github.com/ROBOT-WSC/BEV-LSLAM)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
   
    Fengkui Cao, Shaocong Wang, **<u>Xieyuanli Chen</u>**, Ting Wang, Lianqing Liu
     
-- [Self-Supervised Diffusion-Based Scene Flow Estimation and Motion Segmentation with 4D Radar](https://) [![](https://img.shields.io/github/stars/nubot-nudt/RadarSFEMOS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RadarSFEMOS)
+- [Self-Supervised Diffusion-Based Scene Flow Estimation and Motion Segmentation with 4D Radar](https://ieeexplore.ieee.org/document/10974572) [[PDF]](https://ieeexplore.ieee.org/document/10974572) [![](https://img.shields.io/github/stars/nubot-nudt/RadarSFEMOS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RadarSFEMOS)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
   
    Yufei Liu, **<u>Xieyuanli Chen</u>**, Neng Wang, Stepan Andreev, Alexander Dvorkovich, Rui Fan, Huimin Lu
+  
+- [A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving](https://link.springer.com/article/10.1007/s43684-025-00096-y)  [[PDF]](https://link.springer.com/content/pdf/10.1007/s43684-025-00096-y.pdf)
+
+  *Autonomous Intelligent Systems *
+  
+   Rui Fan, Jiahang Li, Jiaqi Li, Jiale Wang, Ziwei Long, Ning Jia, Yanan Liu, Wenshuo Wang, Mohammud J Bocus, Sergey Vityazev,  **<u>Xieyuanli Chen</u>**, Junhao Xiao, Stepan Andreev, Huimin Lu, Alexander Dvorkovich
 
 - [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://)[[PDF]](https://arxiv.org/pdf/2411.14169) 
 
   *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2025)***
 
-  Jingyi Xu, **<u>Xieyuanli Chen</u>**, Junyi Ma, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei.
+  Jingyi Xu, **<u>Xieyuanli Chen</u>**, Junyi Ma, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei
+
+  - [EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar](https://ojs.aaai.org/index.php/AAAI/article/view/33092)[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33092/35247) 
+
+  *In Proc. of the Conference on Advancements of Artificial Intelligence **(AAAI 2025)***
+
+  Pengyu Zhang, **<u>Xieyuanli Chen</u>**, Yuwei Chen, Beizhen Bi, Zhuo Xu, Tian Jin, Xiaotao Huang, Liang Shen
   
 ##  2024
 - [Fast and accurate deep loop closing and relocalization for reliable lidar slam](https://ieeexplore.ieee.org/abstract/document/10494918/) [[PDF]](https://arxiv.org/pdf/2309.08086)  [![](https://img.shields.io/github/stars/nubot-nudt/LCR-Net?style=social&label=Code+Stars)](https://github.com/nubot-nudt/LCR-Net)
