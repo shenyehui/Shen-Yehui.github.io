@@ -66,7 +66,7 @@
 
   *Autonomous Intelligent Systems*
   
-   Rui Fan, Jiahang Li, Jiaqi Li, Jiale Wang, Ziwei Long, Ning Jia, Yanan Liu, Wenshuo Wang, Mohammud J Bocus, Sergey Vityazev,  **<u>Xieyuanli Chen</u>**, Junhao Xiao, Stepan Andreev, Huimin Lu, Alexander Dvorkovich
+   Rui Fan, Jiahang Li, Jiaqi Li, Jiale Wang, Ziwei Long, Ning Jia, Yanan Liu, Wenshuo Wang, Mohammud J Bocus, Sergey Vityazev, <br />**<u>Xieyuanli Chen</u>**, Junhao Xiao, Stepan Andreev, Huimin Lu, Alexander Dvorkovich
 
 - [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://) [[PDF]](https://arxiv.org/pdf/2411.14169) 
 
