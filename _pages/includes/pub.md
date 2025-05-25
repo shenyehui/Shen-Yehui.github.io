@@ -10,9 +10,9 @@
 
  - [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://ieeexplore.ieee.org/abstract/document/10993479/) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10993479/)  [![](https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SegNet4D)
 
-  *IEEE Transactions on Automation Science and Engineering (**T-ASE**)*
+   *IEEE Transactions on Automation Science and Engineering (**T-ASE**)*
 
-  Neng Wang, Ruibin Guo, Chenghao Shi, Ziyue Wang, Hui Zhang, Huimin Lu, Zhiqiang Zheng, **<u>Xieyuanli Chen</u>**
+   Neng Wang, Ruibin Guo, Chenghao Shi, Ziyue Wang, Hui Zhang, Huimin Lu, Zhiqiang Zheng, **<u>Xieyuanli Chen</u>**
 
 - [UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/abstract/document/10898027) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10898027)
 
@@ -74,7 +74,7 @@
 
   Jingyi Xu, **<u>Xieyuanli Chen</u>**, Junyi Ma, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei
 
-  - [EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar](https://ojs.aaai.org/index.php/AAAI/article/view/33092)[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33092/35247) 
+- [EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar](https://ojs.aaai.org/index.php/AAAI/article/view/33092)[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33092/35247) 
 
   *In Proc. of the Conference on Advancements of Artificial Intelligence **(AAAI 2025)***
 
