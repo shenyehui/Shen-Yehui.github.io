@@ -64,7 +64,7 @@
   
 - [A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving](https://link.springer.com/article/10.1007/s43684-025-00096-y)  [[PDF]](https://link.springer.com/content/pdf/10.1007/s43684-025-00096-y.pdf)
 
-  *Autonomous Intelligent Systems *
+  *Autonomous Intelligent Systems*
   
    Rui Fan, Jiahang Li, Jiaqi Li, Jiale Wang, Ziwei Long, Ning Jia, Yanan Liu, Wenshuo Wang, Mohammud J Bocus, Sergey Vityazev,  **<u>Xieyuanli Chen</u>**, Junhao Xiao, Stepan Andreev, Huimin Lu, Alexander Dvorkovich
 
