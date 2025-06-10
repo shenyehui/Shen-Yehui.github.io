@@ -68,7 +68,7 @@
   
    Rui Fan, Jiahang Li, Jiaqi Li, Jiale Wang, Ziwei Long, Ning Jia, Yanan Liu, Wenshuo Wang, Mohammud J Bocus, Sergey Vityazev, <br />**<u>Xieyuanli Chen</u>**, Junhao Xiao, Stepan Andreev, Huimin Lu, Alexander Dvorkovich
 
-- [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting]([https://](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.html)) [[PDF]]([https://arxiv.org/pdf/2411.14169](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.pdf))  [![](https://img.shields.io/github/stars/BIT-XJY/EfficientOCF?style=social&label=Code+Stars)](https://github.com/BIT-XJY/EfficientOCF)
+- [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.html) [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.pdf)  [![](https://img.shields.io/github/stars/BIT-XJY/EfficientOCF?style=social&label=Code+Stars)](https://github.com/BIT-XJY/EfficientOCF)
 
   *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2025)***
 
