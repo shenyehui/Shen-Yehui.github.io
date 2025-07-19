@@ -61,11 +61,6 @@
   *IEEE Robotics and Automation Letters **(RA-L)***
   
    Yufei Liu, **<u>Xieyuanli Chen</u>**, Neng Wang, Stepan Andreev, Alexander Dvorkovich, Rui Fan, Huimin Lu
-
- - [SGT-LLC: LiDAR Loop Closing Based on Semantic Graph with Triangular Spatial Topology] (https://ieeexplore.ieee.org/abstract/document/10891171) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10891171)
-  *IEEE Robotics and Automation Letters **(RA-L)***
-  
-  Shaocong Wang,  Fengkui Cao, Ting Wang, **<u>Xieyuanli Chen</u>**,  Shiliang Shao
    
 - [A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving](https://link.springer.com/article/10.1007/s43684-025-00096-y)  [[PDF]](https://link.springer.com/content/pdf/10.1007/s43684-025-00096-y.pdf)
 
@@ -93,71 +88,71 @@
 
  - [Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM](https://arxiv.org/abs/2503.11145)  [[PDF]](https://arxiv.org/pdf/2503.11145) [![](https://img.shields.io/github/stars/nubot-nudt/SG-SLAM?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SG-SLAM)
 
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
 
-  Neng Wang, Huimin Lu, Zhiqiang Zheng, Hesheng Wang, Yun-Hui Liu, **<u>Xieyuanli Chen</u>**
+   Neng Wang, Huimin Lu, Zhiqiang Zheng, Hesheng Wang, Yun-Hui Liu, **<u>Xieyuanli Chen</u>**
 
  - [Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement](https://arxiv.org/abs/2503.10986)  [[PDF]](https://arxiv.org/pdf/2503.10986) [![](https://img.shields.io/github/stars/nubot-nudt/RFSG?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RFSG)
 
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
 
-  Zhicheng Feng, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Lun Luo, Zhichao Chen, Yun-Hui Liu, Huimin Lu
+   Zhicheng Feng, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Lun Luo, Zhichao Chen, Yun-Hui Liu, Huimin Lu
 
- - [Improved 2D Hand Trajectory Prediction with Multi-View Consistency][![](https://img.shields.io/github/stars/IRMVLab/EER-HTP?style=social&label=Code+Stars)](https://github.com/IRMVLab/EER-HTP)
+ - Improved 2D Hand Trajectory Prediction with Multi-View Consistency[![](https://img.shields.io/github/stars/IRMVLab/EER-HTP?style=social&label=Code+Stars)](https://github.com/IRMVLab/EER-HTP)
 
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
-  Junyi Ma, Erhang Zhang, Jingyi Xu, **<u>Xieyuanli Chen</u>**,  Hesheng Wang
+   Junyi Ma, Erhang Zhang, Jingyi Xu, **<u>Xieyuanli Chen</u>**,  Hesheng Wang
   
  - [Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction](https://arxiv.org/abs/2504.07375)  [[PDF]](https://arxiv.org/pdf/2504.07375) [![](https://img.shields.io/github/stars/IRMVLab/MMTwin?style=social&label=Code+Stars)](https://github.com/IRMVLab/MMTwin)
 
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
-  Junyi Ma, Wentao Bao, Jingyi Xu, Guanzhong Sun, **<u>Xieyuanli Chen</u>**, Hesheng Wang
+   Junyi Ma, Wentao Bao, Jingyi Xu, Guanzhong Sun, **<u>Xieyuanli Chen</u>**, Hesheng Wang
 
  - [Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos](https://arxiv.org/abs/2405.04370)  [[PDF]](https://arxiv.org/pdf/2405.04370) [![](https://img.shields.io/github/stars/IRMVLab/Diff-IP2D?style=social&label=Code+Stars)](https://github.com/IRMVLab/Diff-IP2D)
 
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
-  Junyi Ma, Jingyi Xu, **<u>Xieyuanli Chen</u>**, Hesheng Wang
+   Junyi Ma, Jingyi Xu, **<u>Xieyuanli Chen</u>**, Hesheng Wang
 
  - [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/abs/2503.12350)  [[PDF]](https://arxiv.org/pdf/2503.12350) [![](https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ResLPR)
 
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
-  Wenqing Kuang, Xiongwei Zhao, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, **<u>Xieyuanli Chen</u>**
+   Wenqing Kuang, Xiongwei Zhao, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, **<u>Xieyuanli Chen</u>**
   
  - [BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model](https://arxiv.org/abs/2503.11372)  [[PDF]](https://arxiv.org/pdf/2503.11372) [![](https://img.shields.io/github/stars/nubot-nudt/BEVDiffLoc?style=social&label=Code+Stars)](https://github.com/nubot-nudt/BEVDiffLoc)
 
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
-  Ziyue Wang, Chenghao Shi, Neng Wang, Qinghua Yu, **<u>Xieyuanli Chen</u>**, Huimin Lu
+   Ziyue Wang, Chenghao Shi, Neng Wang, Qinghua Yu, **<u>Xieyuanli Chen</u>**, Huimin Lu
 
  - [Efficient Multi-Modal 3D Object Detector via Instance Level Contrastive Distillation](https://arxiv.org/abs/2503.12914)  [[PDF]](https://arxiv.org/pdf/2503.12914) [![](https://img.shields.io/github/stars/nubot-nudt/BICD-Fusion?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ICD-Fusion)
 
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
-  Zhuoqun Su, Huimin Lu, Shuaifeng Jiao, Junhao Xiao, Yaonan Wang, **<u>Xieyuanli Chen</u>**
+   Zhuoqun Su, Huimin Lu, Shuaifeng Jiao, Junhao Xiao, Yaonan Wang, **<u>Xieyuanli Chen</u>**
 
- - [MRMT-PR: A Multi-Scale Reverse-View Mamba-Transformer for LiDAR Place Recognition]
+ - MRMT-PR: A Multi-Scale Reverse-View Mamba-Transformer for LiDAR Place Recognition
 
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
-  Kan Luo, Jingwen Wang, Hongshan Yu*, Yaonan Wang, Javier Civera, **<u>Xieyuanli Chen</u>**
+   Kan Luo, Jingwen Wang, Hongshan Yu*, Yaonan Wang, Javier Civera, **<u>Xieyuanli Chen</u>**
 
- - [C-TRAC: Terrain-Adaptive Control for Articulated Tracked Robots via Contact-Aware Reinforcement Learning]
+ - C-TRAC: Terrain-Adaptive Control for Articulated Tracked Robots via Contact-Aware Reinforcement Learning
 
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
-  Hainan Pan, Kaihong Huang, **<u>Xieyuanli Chen</u>**, Hongchuan Zhang, Junfeng shi, Chuang Cheng, Bailiang Chen, Huimin Lu
+   Hainan Pan, Kaihong Huang, **<u>Xieyuanli Chen</u>**, Hongchuan Zhang, Junfeng shi, Chuang Cheng, Bailiang Chen, Huimin Lu
   
- - [Efficient Instance Motion-Aware Point Cloud Scene Prediction][![](https://img.shields.io/github/stars/nubot-nudt/IMPNet?style=social&label=Code+Stars)](https://github.com/nubot-nudt/IMPNet)
+ - Efficient Instance Motion-Aware Point Cloud Scene Prediction[![](https://img.shields.io/github/stars/nubot-nudt/IMPNet?style=social&label=Code+Stars)](https://github.com/nubot-nudt/IMPNet)
 
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
-  Yiming Fang, **<u>Xieyuanli Chen</u>**, Neng Wang, Kaihong Huang, Hesheng Wang, Huimin Lu
+   Yiming Fang, **<u>Xieyuanli Chen</u>**, Neng Wang, Kaihong Huang, Hesheng Wang, Huimin Lu
   
-- [Fusion Scene Context: Robust and Efficient LiDAR Place Recognition in Changing Environments]
+-  Fusion Scene Context: Robust and Efficient LiDAR Place Recognition in Changing Environments
 
   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
