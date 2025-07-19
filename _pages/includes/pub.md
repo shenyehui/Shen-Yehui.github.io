@@ -20,6 +20,24 @@
 
    Neng Wang, Ruibin Guo, Chenghao Shi, Ziyue Wang, Hui Zhang, Huimin Lu, Zhiqiang Zheng, **<u>Xieyuanli Chen</u>**
 
+ - [TiCoSS: Tightening the coupling between semantic segmentation and stereo matching within a joint learning framework](https://ieeexplore.ieee.org/abstract/document/11072253/) [[PDF]](https://arxiv.org/pdf/2407.18038) 
+
+   *IEEE Transactions on Automation Science and Engineering (**T-ASE**)*
+
+   Guanfeng Tang, Zhiyuan Wu, Jiahang Li, Ping Zhong, Wei Ye, **<u>Xieyuanli Chen</u>**, Huimin Lu, Rui Fan
+   
+- [Robust Visual Place Recognition Under Variational Views](https://ieeexplore.ieee.org/abstract/document/11052616)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/11052616) [![](https://img.shields.io/github/stars/BIT-MJY/CVTNet?style=social&label=Code+Stars)](https://github.com/BIT-MJY/CVTNet)
+
+  *IEEE Transactions on Industrial Informatics **(T-II)***
+
+  Junlang Huang, Defu Lin, Jie Du, Xinyu Jiang, Chuangquan Chen,  **<u>Xieyuanli Chen</u>**, Yimin Zhou, Chi-Man Vong
+  
+- [DSBEV: Docking Space Segmentation for Autonomous Surface Vehicle in Bird's Eye View](https://ieeexplore.ieee.org/abstract/document/11017376/)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/11017376/) [![](https://img.shields.io/github/stars/BIT-MJY/CVTNet?style=social&label=Code+Stars)](https://github.com/BIT-MJY/CVTNet)
+
+  *IEEE Transactions on Industrial Informatics **(T-II)***
+
+  Changsong Pang, Xiaomin Zhang, **<u>Xieyuanli Chen</u>**, Hu Xu, Yang Yu, Yuwei Cheng
+   
 - [UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/abstract/document/10898027) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10898027)
 
   *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*
@@ -67,7 +85,13 @@
   *IEEE Robotics and Automation Letters **(RA-L)***
   
    Yufei Liu, **<u>Xieyuanli Chen</u>**, Neng Wang, Stepan Andreev, Alexander Dvorkovich, Rui Fan, Huimin Lu
-   
+
+- [OverlapMamba: A Shift State Space Model for LiDAR-based Place Recognition](https://ieeexplore.ieee.org/abstract/document/11045950) [[PDF]](https://ieeexplore.ieee.org/abstract/document/11045950) [![](https://img.shields.io/github/stars/SCNU-RISLAB/OverlapMamba?style=social&label=Code+Stars)](https://github.com/SCNU-RISLAB/OverlapMamba)
+
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Jiehao Luo, Jintao Cheng, Qiuchi Xiang, Jin Wu, Rui Fan,  **<u>Xieyuanli Chen</u>**, Xiaoyu Tang
+  
 - [A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving](https://link.springer.com/article/10.1007/s43684-025-00096-y)  [[PDF]](https://link.springer.com/content/pdf/10.1007/s43684-025-00096-y.pdf)
 
   *Autonomous Intelligent Systems*
@@ -181,6 +205,18 @@
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
    Fengkui Cao, Yanpeng Jia, Ting Wang, Hesheng Wang, **<u>Xieyuanli Chen</u>**
+   
+- [Fast Intrinsic–Extrinsic Calibration for Pose-Only Structure-from-Motion](https://www.mdpi.com/2072-4292/17/13/2247)  [[PDF]](https://www.mdpi.com/2072-4292/17/13/2247)
+
+  *Remote Sensing*
+  
+  Xiaoyang Tian, Yangbing Ge, Zhen Tan, **<u>Xieyuanli Chen</u>**, Ming Li, Dewen Hu
+
+- [Fast Intrinsic–Extrinsic Calibration for Pose-Only Structure-from-Motion](https://www.mdpi.com/2313-7673/10/6/410)  [[PDF]](https://www.mdpi.com/2313-7673/10/6/410)
+
+  *Biomimetics*
+  
+  Zirui Guo, **<u>Xieyuanli Chen</u>**, Zhiqiang Zheng, Huimin Lu, Ruibin Guo
   
 ##  2024
 - [Fast and accurate deep loop closing and relocalization for reliable lidar slam](https://ieeexplore.ieee.org/abstract/document/10494918/) [[PDF]](https://arxiv.org/pdf/2309.08086)  [![](https://img.shields.io/github/stars/nubot-nudt/LCR-Net?style=social&label=Code+Stars)](https://github.com/nubot-nudt/LCR-Net)
