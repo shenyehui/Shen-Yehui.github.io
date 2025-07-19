@@ -154,9 +154,9 @@
   
 -  Fusion Scene Context: Robust and Efficient LiDAR Place Recognition in Changing Environments
 
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
-  Fengkui Cao, Yanpeng Jia, Ting Wang, Hesheng Wang, **<u>Xieyuanli Chen</u>**
+   Fengkui Cao, Yanpeng Jia, Ting Wang, Hesheng Wang, **<u>Xieyuanli Chen</u>**
   
 ##  2024
 - [Fast and accurate deep loop closing and relocalization for reliable lidar slam](https://ieeexplore.ieee.org/abstract/document/10494918/) [[PDF]](https://arxiv.org/pdf/2309.08086)  [![](https://img.shields.io/github/stars/nubot-nudt/LCR-Net?style=social&label=Code+Stars)](https://github.com/nubot-nudt/LCR-Net)
