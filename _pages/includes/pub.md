@@ -8,6 +8,12 @@
   
   Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
 
+- [BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles](https://arxiv.org/abs/2408.01841) [[PDF]](https://arxiv.org/pdf/2408.01841)  [![](https://img.shields.io/github/stars/zjuluolun/BEVPlace2?style=social&label=Code+Stars)](https://github.com/zjuluolun/BEVPlace2)
+
+  *IEEE Transactions on Robotics (**T-RO**)*
+  
+  Lun Luo, Si-Yuan Cao, Xiaorui Li, Jintao Xu, Rui Ai, Zhu Yu, **<u>Xieyuanli Chen</u>**
+  
  - [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://ieeexplore.ieee.org/abstract/document/10993479/) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10993479/)  [![](https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SegNet4D)
 
    *IEEE Transactions on Automation Science and Engineering (**T-ASE**)*
@@ -80,6 +86,24 @@
 
   Pengyu Zhang, **<u>Xieyuanli Chen</u>**, Yuwei Chen, Beizhen Bi, Zhuo Xu, Tian Jin, Xiaotao Huang, Liang Shen
 
+- [A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data](https://arxiv.org/abs/2503.11097) [[PDF]](https://arxiv.org/pdf/2503.11097) [![](https://img.shields.io/github/stars/nubot-nudt/DOSS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/DOSS)
+
+  *In Proc. of the Conference on Advancements of Artificial Intelligence **(ICRA 2025)***
+
+  Wenbang Deng, **<u>Xieyuanli Chen</u>**, Qinghua Yu, Yunze He, Junhao Xiao, Huimin Lu
+  
+- RLCNet: A Novel Deep Feature-Matching-Based Method for Online Target-Free Radar-LiDAR Calibration [![](https://img.shields.io/github/stars/nubot-nudt/RLCNet?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RLCNet)
+
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2025)***
+  
+   Kai Luan,Chenghao Shi, **<u>Xieyuanli Chen</u>**,Rui  Fan,  Zhiqiang Zheng, Huimin Lu
+  
+- InsCMPR: Efficient Cross-Modal Place Recognition Via Instance-Aware Hybrid Mamba-Transformer [![](https://img.shields.io/github/stars/nubot-nudt/InsCMPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/InsCMPR)
+
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2025)***
+  
+  Shuaifeng Jiao, Zhuoqun Su, Lun Luo, Hongshan Yu, Zongtan Zhou, Huimin Lu, **<u>Xieyuanli Chen</u>**
+
 - [LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar](https://arxiv.org/abs/2503.11409)  [[PDF]](https://arxiv.org/pdf/2503.11409) [![](https://img.shields.io/github/stars/nubot-nudt/LuSeg?style=social&label=Code+Stars)](https://github.com/nubot-nudt/LuSeg)
 
   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
@@ -90,7 +114,7 @@
 
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
 
-   Neng Wang, Huimin Lu, Zhiqiang Zheng, Hesheng Wang, Yun-Hui Liu, **<u>Xieyuanli Chen</u>**
+   Neng Wang, Huimin Lu, Zhiqiang Zheng, Yun-Hui Liu, **<u>Xieyuanli Chen</u>**
 
  - [Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement](https://arxiv.org/abs/2503.10986)  [[PDF]](https://arxiv.org/pdf/2503.10986) [![](https://img.shields.io/github/stars/nubot-nudt/RFSG?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RFSG)
 
@@ -150,7 +174,7 @@
 
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
-   Yiming Fang, **<u>Xieyuanli Chen</u>**, Neng Wang, Kaihong Huang, Hesheng Wang, Huimin Lu
+   Yiming Fang, **<u>Xieyuanli Chen</u>**, Neng Wang, Kaihong Huang, Huimin Lu
   
 -  Fusion Scene Context: Robust and Efficient LiDAR Place Recognition in Changing Environments
 
