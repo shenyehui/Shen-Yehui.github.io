@@ -212,7 +212,7 @@
   
   Xiaoyang Tian, Yangbing Ge, Zhen Tan, **<u>Xieyuanli Chen</u>**, Ming Li, Dewen Hu
 
-- [Fast Intrinsic–Extrinsic Calibration for Pose-Only Structure-from-Motion](https://www.mdpi.com/2313-7673/10/6/410)  [[PDF]](https://www.mdpi.com/2313-7673/10/6/410)
+- [Bio-Inspired 3D Affordance Understanding from Single Image with Neural Radiance Field for Enhanced Embodied Intelligence](https://www.mdpi.com/2313-7673/10/6/410)  [[PDF]](https://www.mdpi.com/2313-7673/10/6/410)
 
   *Biomimetics*
   
