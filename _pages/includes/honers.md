@@ -3,6 +3,10 @@
 
 # 🎖 Honors and Awards
 - <p style="margin: 0; line-height: 1.2;">
+  2025<strong> Outstanding Associate Editor </strong> <br>
+  <span style="font-size: 90%;">RA-L, IEEE Robotics and Automation Society</span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
   2024<strong> World’s Top 2% Scientists</strong> <br>
   <span style="font-size: 90%;">Stanford and Elsevier</span>
   </p>
