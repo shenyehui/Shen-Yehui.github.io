@@ -2,7 +2,7 @@
 
 # 📝 Publications
 ##  2025
-- [Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration](https://arxiv.org/pdf/2509.08354) [[PDF]](https://arxiv.org/pdf/2509.08354)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
+- [Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration](https://arxiv.org/pdf/2509.08354) [[PDF]](https://arxiv.org/pdf/2509.08354)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://grasplikehuman.github.io/)
 
   *IEEE Transactions on Robotics (**T-RO**)*
   
