@@ -2,13 +2,19 @@
 
 # 📝 Publications
 ##  2025
-- [RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning](https://arxiv.org/abs/2409.00206) [[PDF]](https://arxiv.org/pdf/2409.00206)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
+- [Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration](https://arxiv.org/pdf/2509.08354) [[PDF]](https://arxiv.org/pdf/2509.08354)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
+
+  *IEEE Transactions on Robotics (**T-RO**)*
+  
+  Ce Guo, **<u>Xieyuanli Chen</u>**, Zhiwen Zeng, Zirui Guo, Yihong Li, Haoran Xiao, Dewen Hu, Huimin Lu
+  
+- [RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning](https://ieeexplore.ieee.org/document/10891747) [[PDF]](https://arxiv.org/pdf/2409.00206)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
 
   *IEEE Transactions on Robotics (**T-RO**)*
   
   Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
 
-- [BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles](https://arxiv.org/abs/2408.01841) [[PDF]](https://arxiv.org/pdf/2408.01841)  [![](https://img.shields.io/github/stars/zjuluolun/BEVPlace2?style=social&label=Code+Stars)](https://github.com/zjuluolun/BEVPlace2)
+- [BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles](https://ieeexplore.ieee.org/document/11063461) [[PDF]](https://arxiv.org/pdf/2408.01841)  [![](https://img.shields.io/github/stars/zjuluolun/BEVPlace2?style=social&label=Code+Stars)](https://github.com/zjuluolun/BEVPlace2)
 
   *IEEE Transactions on Robotics (**T-RO**)*
   
