@@ -111,3 +111,20 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.pub-links {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.bibtex-details {
+  display: inline-block;
+  position: relative;
+}
+
+.bibtex-details[open] .bibtex-code {
+  margin-top: 0.4rem;
+}
+
