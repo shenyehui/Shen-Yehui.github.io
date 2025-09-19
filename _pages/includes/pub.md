@@ -30,7 +30,7 @@
     </a>
   </div>
 
-  *IEEE Transactions on Robotics (**T-RO**)
+  *IEEE Transactions on Robotics (**T-RO**)*
    
    Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
 
