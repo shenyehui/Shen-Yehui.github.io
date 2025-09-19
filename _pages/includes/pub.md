@@ -8,7 +8,7 @@
   
   Ce Guo, **<u>Xieyuanli Chen</u>**, Zhiwen Zeng, Zirui Guo, Yihong Li, Haoran Xiao, Dewen Hu, Huimin Lu
   
-- [RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning](https://ieeexplore.ieee.org/document/10891747) [[PDF]](https://arxiv.org/pdf/2409.00206)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
+- [RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning](https://ieeexplore.ieee.org/document/10891747) 
 
   *IEEE Transactions on Robotics (**T-RO**)
    <details class="bibtex-details">
@@ -20,7 +20,7 @@
      year      = {2025},
      url       = {https://...}
    }</code></pre>
-   </details>
+   </details>[[PDF]](https://arxiv.org/pdf/2409.00206)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
 
    Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
 
