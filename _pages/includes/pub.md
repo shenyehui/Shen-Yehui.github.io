@@ -10,7 +10,9 @@
   
 - [RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning](https://ieeexplore.ieee.org/document/10891747) [[PDF]](https://arxiv.org/pdf/2409.00206)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
 
-  *IEEE Transactions on Robotics (**T-RO**)*<details class="bibtex-details">
+  *IEEE Transactions on Robotics (**T-RO**)
+
+  *<details class="bibtex-details">
   <summary class="bibtex-button">[BibTeX]</summary>
   <pre class="bibtex-code"><code>@ARTICLE{10891747,
   author={Lu, Sha and Xu, Xuecheng and Zhang, Dongkun and Wu, Yuxuan and Lu, Haojian and Chen, Xieyuanli and Xiong, Rong and Wang, Yue},
@@ -22,8 +24,9 @@
   pages={1861-1881}
   keywords={Location awareness;Pose estimation;Robots;Laser radar;Magnetic heads;Feature extraction;Three-dimensional displays;Representation learning;Point cloud compression;Translation;BEV representation learning;global localization;place recognition (PR);roto-translation equivariance},
   doi={10.1109/TRO.2025.3543267}}
-</code></pre>
-</details>
+  </code></pre>
+   </details>
+
   Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
 
 - [BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles](https://ieeexplore.ieee.org/document/11063461) [[PDF]](https://arxiv.org/pdf/2408.01841)  [![](https://img.shields.io/github/stars/zjuluolun/BEVPlace2?style=social&label=Code+Stars)](https://github.com/zjuluolun/BEVPlace2)
