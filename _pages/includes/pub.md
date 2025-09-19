@@ -11,7 +11,7 @@
 - [RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning](https://ieeexplore.ieee.org/document/10891747) 
 
   *IEEE Transactions on Robotics (**T-RO**)
-   <details class="bibtex-details">
+   <details class="bibtex-details"> 
      <summary class="bibtex-button">[BibTeX]</summary>
      <pre class="bibtex-code"><code>@inproceedings{键名_示例,
      title     = {Paper Title},
@@ -20,8 +20,10 @@
      year      = {2025},
      url       = {https://...}
    }</code></pre>
-   </details>[[PDF]](https://arxiv.org/pdf/2409.00206)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
-
+   </details>
+   
+   [[PDF]](https://arxiv.org/pdf/2409.00206)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
+   
    Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
 
 - [BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles](https://ieeexplore.ieee.org/document/11063461) [[PDF]](https://arxiv.org/pdf/2408.01841)  [![](https://img.shields.io/github/stars/zjuluolun/BEVPlace2?style=social&label=Code+Stars)](https://github.com/zjuluolun/BEVPlace2)
