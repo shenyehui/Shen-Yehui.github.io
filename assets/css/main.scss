@@ -111,52 +111,55 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+/* 一行展示按钮，空间不够允许换行 */
 .pub-links {
   display: flex;
+  flex-wrap: wrap;
   gap: 0.6rem;
   align-items: center;
-  position: relative;   /* 让展开的框基于这行定位 */
-  flex-wrap: wrap;      /* 太窄时允许换行 */
 }
 
-/* 只把 summary 当按钮用，不让 details 撑开布局 */
+/* 关键：把 <details> 自己“消失”，让它的子元素成为 flex 直接子项 */
 .bibtex-details {
-  display: inline-block;
-  position: relative;
+  display: contents;            /* 使 summary 和 .bibtex-block 都成为 .pub-links 的 flex item */
 }
-.bibtex-details > summary {
+
+/* [BibTeX] 按钮样式（可按需调整） */
+.bibtex-button {
   cursor: pointer;
   font-weight: 600;
   border: 1px solid #ddd;
   padding: 2px 8px;
   border-radius: 4px;
   background: #f8f8f8;
+  user-select: none;
 }
-.bibtex-details > summary:hover {
-  background: #f0f0f0;
-}
+.bibtex-button:hover { background: #f0f0f0; }
 
-/* 展开的 BibTeX 内容：始终单独占一行 */
-.bibtex-block {
-  display: none;
-  position: absolute;
-  left: 0;
-  top: 100%;   /* 紧贴在按钮行下方 */
-  width: 100%;
-  margin-top: 0.4rem;
-}
+/* 默认不显示 BibTeX 内容 */
+.bibtex-block { display: none; }
+
+/* 展开时：单独占一整行（和按钮/链接分离），小屏也不裁切 */
 .bibtex-details[open] .bibtex-block {
   display: block;
+  flex-basis: 100%;             /* 占满当前行宽度 */
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 0.4rem;
 }
 
+/* 代码块可横向滚动；也可用 pre-wrap 允许换行 */
 .bibtex-block pre {
   background: #fafafa;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 0.75rem;
-  font-family: monospace;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
   font-size: 0.9em;
-  white-space: pre;
+  white-space: pre;              /* 如果想自动换行，改为 pre-wrap */
   overflow-x: auto;
+  margin: 0;
 }
 
+/* 可选：去掉 summary 的默认小三角 */
+.bibtex-button::-webkit-details-marker { display: none; }
