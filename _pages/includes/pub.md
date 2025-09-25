@@ -182,7 +182,7 @@
   
    Ziyue Wang, Chenghao Shi, Neng Wang, Qinghua Yu, **<u>Xieyuanli Chen</u>**, Huimin Lu
 
- - [Efficient Multi-Modal 3D Object Detector via Instance Level Contrastive Distillation](https://arxiv.org/abs/2503.12914)  [[PDF]](https://arxiv.org/pdf/2503.12914) [![](https://img.shields.io/github/stars/nubot-nudt/BICD-Fusion?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ICD-Fusion)
+ - [Efficient Multi-Modal 3D Object Detector via Instance Level Contrastive Distillation](https://arxiv.org/abs/2503.12914)  [[PDF]](https://arxiv.org/pdf/2503.12914) [![](https://img.shields.io/github/stars/nubot-nudt/ICD-Fusion?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ICD-Fusion)
 
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
