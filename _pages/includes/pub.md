@@ -1,4 +1,4 @@
-<span id="publications"></span>
+.<span id="publications"></span>
 
 # 📝 Publications
 ##  2025
@@ -232,26 +232,95 @@
   
    Panfei Cheng, Hongshan Yu, Changxiang Liu, Kan Luo, Naveed Akhtar, **<u>Xieyuanli Chen</u>**
 
- - [SGT-LLC: LiDAR Loop Closing Based on Semantic Graph with Triangular Spatial Topology](https://ieeexplore.ieee.org/abstract/document/10891171) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10891171)  [![](https://img.shields.io/github/stars/ROBOT-WSC/SGT-LLC?style=social&label=Code+Stars)](https://github.com/ROBOT-WSC/SGT-LLC)
-
+ - [SGT-LLC: LiDAR Loop Closing Based on Semantic Graph with Triangular Spatial Topology](https://ieeexplore.ieee.org/abstract/document/10891171)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{wang2025sgt,
+    title={SGT-LLC: LiDAR Loop Closing Based on Semantic Graph with Triangular Spatial Topology},
+    author={Wang, Shaocong and Cao, Fengkui and Wang, Ting and Chen, Xieyuanli and Shao, Shiliang},
+    journal={IEEE Robotics and Automation Letters},
+    year={2025},
+    publisher={IEEE}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10891171" class="pub-link">[PDF]</a>
+   <a href="https://github.com/ROBOT-WSC/SGT-LLC">
+     <img src="https://img.shields.io/github/stars/ROBOT-WSC/SGT-LLC?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
    *IEEE Robotics and Automation Letters **(RA-L)***
   
    Shaocong Wang, Fengkui Cao, Ting Wang,**<u>Xieyuanli Chen</u>**, Shiliang Shao
   
-- [NeuroVE: Brain-inspired Linear-Angular Velocity Estimation with Spiking Neural Networks](https://ieeexplore.ieee.org/abstract/document/10839327)  [[PDF]](https://arxiv.org/pdf/2408.15663)  
-
+- [NeuroVE: Brain-inspired Linear-Angular Velocity Estimation with Spiking Neural Networks](https://ieeexplore.ieee.org/abstract/document/10839327)  
+  <div class="pub-links">
+  <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{li2025neurove,
+   title={Neurove: Brain-inspired linear-angular velocity estimation with spiking neural networks},
+   author={Li, Xiao and Chen, Xieyuanli and Guo, Ruibin and Wu, Yujie and Zhou, Zongtan and Yu, Fangwen and Lu, Huimin},
+   journal={IEEE Robotics and Automation Letters},
+   year={2025},
+   publisher={IEEE}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://arxiv.org/pdf/2408.15663" class="pub-link">[PDF]</a>
+  </div>
+  
   *IEEE Robotics and Automation Letters **(RA-L)***
   
    Xiao Li, **<u>Xieyuanli Chen</u>**, Ruibin Guo, Yujie Wu, Zongtan Zhou, Fangwen Yu, Huimin Lu
   
-- [UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation](https://ieeexplore.ieee.org/document/10937714)  [[PDF]](https://arxiv.org/pdf/2503.21338) [![](https://img.shields.io/github/stars/nubot-nudt/UGNA-VPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/UGNA-VPR)
-
+- [UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation](https://ieeexplore.ieee.org/document/10937714)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@@article{shen2025ugna,
+     title={UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation},
+     author={Shen, Yehui and Zhang, Lei and Li, Qingqiu and Zhao, Xiongwei and Wang, Yue and Lu, Huimin and Chen, Xieyuanli},
+     journal={IEEE Robotics and Automation Letters},
+     year={2025},
+     publisher={IEEE}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2503.21338" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/UGNA-VPR">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/UGNA-VPR?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
   *IEEE Robotics and Automation Letters **(RA-L)***
   
    Yehui Shen, Lei Zhang, Qingqiu Li, Xiongwei Zhao, Yue Wang, Huimin Lu, **<u>Xieyuanli Chen</u>**
   
-- [BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment](https://ieeexplore.ieee.org/document/10845798) [[PDF]](https://ieeexplore.ieee.org/document/10845798) [![](https://img.shields.io/github/stars/ROBOT-WSC/BEV-LSLAM?style=social&label=Code+Stars)](https://github.com/ROBOT-WSC/BEV-LSLAM)
-
+- [BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment](https://ieeexplore.ieee.org/document/10845798) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{cao2025bev,
+     title={Bev-lslam: A novel and compact bev lidar slam for outdoor environment},
+     author={Cao, Fengkui and Wang, Shaocong and Chen, Xieyuanli and Wang, Ting and Liu, Lianqing},
+     journal={IEEE Robotics and Automation Letters},
+     year={2025},
+     publisher={IEEE}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/10845798" class="pub-link">[PDF]</a>
+   <a href="https://github.com/ROBOT-WSC/BEV-LSLAM">
+     <img src="https://img.shields.io/github/stars/ROBOT-WSC/BEV-LSLAM?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
   *IEEE Robotics and Automation Letters **(RA-L)***
   
    Fengkui Cao, Shaocong Wang, **<u>Xieyuanli Chen</u>**, Ting Wang, Lianqing Liu
