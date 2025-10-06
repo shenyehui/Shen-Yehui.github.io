@@ -76,23 +76,24 @@
   Lun Luo, Si-Yuan Cao, Xiaorui Li, Jintao Xu, Rui Ai, Zhu Yu, **<u>Xieyuanli Chen</u>**
   
  - [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://ieeexplore.ieee.org/abstract/document/10993479/) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10993479/)  [![](https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SegNet4D)
-  <div class="pub-links">
-  <details class="bibtex-details">
-    <summary class="bibtex-button">[BibTeX]</summary>
-    <div class="bibtex-block">
-      <pre><code>@article{wang2024segnet4d,
-   title={SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud},
-   author={Wang, Neng and Guo, Ruibin and Shi, Chenghao and Wang, Ziyue and Zhang, Hui and Lu, Huimin and Zheng, Zhiqiang and Chen, Xieyuanli},
-   journal={arXiv preprint arXiv:2406.16279},
-   year={2024}
-  }</code></pre>
-  </div>
-  </details>
-  <a href="https://ieeexplore.ieee.org/abstract/document/10993479/" class="pub-link">[PDF]</a>
-  <a href="https://github.com/nubot-nudt/SegNet4D">
-    <img src="https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars" alt="GitHub stars">
-  </a>
-  </div>
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{wang2024segnet4d,
+    title={SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud},
+    author={Wang, Neng and Guo, Ruibin and Shi, Chenghao and Wang, Ziyue and Zhang, Hui and Lu, Huimin and Zheng, Zhiqiang and Chen, Xieyuanli},
+    journal={arXiv preprint arXiv:2406.16279},
+    year={2024}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10993479/" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/SegNet4D">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
    *IEEE Transactions on Automation Science and Engineering (**T-ASE**)*
 
    Neng Wang, Ruibin Guo, Chenghao Shi, Ziyue Wang, Hui Zhang, Huimin Lu, Zhiqiang Zheng, **<u>Xieyuanli Chen</u>**
