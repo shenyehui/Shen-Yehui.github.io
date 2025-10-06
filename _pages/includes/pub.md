@@ -2,7 +2,7 @@
 
 # 📝 Publications
 ##  2025
-- [Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration](https://ieeexplore.ieee.org/document/11176430) [[PDF]](https://arxiv.org/pdf/2509.08354)  [![]](https://grasplikehuman.github.io/)
+- [Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration](https://ieeexplore.ieee.org/document/11176430)
   <div class="pub-links">
   <details class="bibtex-details">
     <summary class="bibtex-button">[BibTeX]</summary>
@@ -13,7 +13,7 @@
    journal={IEEE Transactions on Robotics},
    year={2025},
    publisher={IEEE}
- }</code></pre>
+   }</code></pre>
   </div>
   </details>
   <a href="https://arxiv.org/pdf/2409.00206" class="pub-link">[PDF]</a>
