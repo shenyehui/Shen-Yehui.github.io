@@ -14,22 +14,20 @@
     <summary class="bibtex-button">[BibTeX]</summary>
     <div class="bibtex-block">
       <pre><code>@inproceedings{键名_示例,
-  title     = {Paper Title},
-  author    = {Author, A and Author, B},
-  booktitle = {Conference},
-  year      = {2025},
-  url       = {https://...}
-}</code></pre>
-    </div>
+   title     = {Paper Title},
+   author    = {Author, A and Author, B},
+   booktitle = {Conference},
+   year      = {2025},
+   url       = {https://...}
+  }</code></pre>
+  </div>
   </details>
-
   <a href="https://arxiv.org/pdf/2409.00206" class="pub-link">[PDF]</a>
   <a href="https://github.com/lus6-Jenny/RINGSharp">
     <img src="https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars" alt="GitHub stars">
   </a>
-</div>
-
-
+  </div>
+  
   *IEEE Transactions on Robotics (**T-RO**)*
    
    Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
