@@ -75,7 +75,7 @@
   
   Lun Luo, Si-Yuan Cao, Xiaorui Li, Jintao Xu, Rui Ai, Zhu Yu, **<u>Xieyuanli Chen</u>**
   
- - [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://ieeexplore.ieee.org/abstract/document/10993479/) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10993479/)  [![](https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SegNet4D)
+ - [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://ieeexplore.ieee.org/abstract/document/10993479/) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -98,38 +98,136 @@
 
    Neng Wang, Ruibin Guo, Chenghao Shi, Ziyue Wang, Hui Zhang, Huimin Lu, Zhiqiang Zheng, **<u>Xieyuanli Chen</u>**
 
- - [TiCoSS: Tightening the coupling between semantic segmentation and stereo matching within a joint learning framework](https://ieeexplore.ieee.org/abstract/document/11072253/) [[PDF]](https://arxiv.org/pdf/2407.18038) 
-
+ - [TiCoSS: Tightening the coupling between semantic segmentation and stereo matching within a joint learning framework](https://ieeexplore.ieee.org/abstract/document/11072253/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{tang2025ticoss,
+    title={TiCoSS: Tightening the coupling between semantic segmentation and stereo matching within a joint learning framework},
+    author={Tang, Guanfeng and Wu, Zhiyuan and Li, Jiahang and Zhong, Ping and Ye, Wei and Chen, Xieyuanli and Lu, Huimin and Fan, Rui},
+    journal={IEEE Transactions on Automation Science and Engineering},
+    year={2025},
+    publisher={IEEE}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2407.18038" class="pub-link">[PDF]</a>
+   </div>
+   
    *IEEE Transactions on Automation Science and Engineering (**T-ASE**)*
 
    Guanfeng Tang, Zhiyuan Wu, Jiahang Li, Ping Zhong, Wei Ye, **<u>Xieyuanli Chen</u>**, Huimin Lu, Rui Fan
    
-- [Robust Visual Place Recognition Under Variational Views](https://ieeexplore.ieee.org/abstract/document/11052616)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/11052616) [![](https://img.shields.io/github/stars/BIT-MJY/CVTNet?style=social&label=Code+Stars)](https://github.com/BIT-MJY/CVTNet)
-
+- [Robust Visual Place Recognition Under Variational Views](https://ieeexplore.ieee.org/abstract/document/11052616) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{huang2025robust,
+    title={Robust Visual Place Recognition Under Variational Views},
+    author={Huang, Junlang and Lin, Defu and Du, Jie and Jiang, Xinyu and Chen, Chuangquan and Chen, Xieyuanli and Zhou, Yimin and Vong, Chi-Man},
+    journal={IEEE Transactions on Industrial Informatics},
+    year={2025},
+    publisher={IEEE}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11052616" class="pub-link">[PDF]</a>
+  </div>
+   
   *IEEE Transactions on Industrial Informatics **(T-II)***
 
   Junlang Huang, Defu Lin, Jie Du, Xinyu Jiang, Chuangquan Chen,  **<u>Xieyuanli Chen</u>**, Yimin Zhou, Chi-Man Vong
   
-- [DSBEV: Docking Space Segmentation for Autonomous Surface Vehicle in Bird's Eye View](https://ieeexplore.ieee.org/abstract/document/11017376/)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/11017376/) [![](https://img.shields.io/github/stars/BIT-MJY/CVTNet?style=social&label=Code+Stars)](https://github.com/BIT-MJY/CVTNet)
-
+- [DSBEV: Docking Space Segmentation for Autonomous Surface Vehicle in Bird's Eye View](https://ieeexplore.ieee.org/abstract/document/11017376/) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{pang2025dsbev,
+    title={DSBEV: Docking Space Segmentation for Autonomous Surface Vehicle in Bird's Eye View},
+    author={Pang, Changsong and Zhang, Xiaomin and Chen, Xieyuanli and Xu, Hu and Yu, Yang and Cheng, Yuwei},
+    journal={IEEE Transactions on Industrial Informatics},
+    year={2025},
+    publisher={IEEE}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11017376" class="pub-link">[PDF]</a>
+  </div>
+  
   *IEEE Transactions on Industrial Informatics **(T-II)***
 
   Changsong Pang, Xiaomin Zhang, **<u>Xieyuanli Chen</u>**, Hu Xu, Yang Yu, Yuwei Cheng
    
 - [UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/abstract/document/10898027) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10898027)
-
+  <div class="pub-links">
+  <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{wu2025ua,
+    title={UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments},
+    author={Wu, Qi and Chen, Xieyuanli and Xu, Xiangyu and Zhong, Xinliang and Qu, Xingwei and Xia, Songpengcheng and Liu, Guoqing and Liu, Liu and Yu, Wenxian and Pei, Ling},
+    journal={IEEE Transactions on Instrumentation and Measurement},
+    volume={74},
+    pages={1--12},
+    year={2025},
+    publisher={IEEE}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10898027" class="pub-link">[PDF]</a>
+  </div>
+  
   *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*
   
   Qi Wu, **<u>Xieyuanli Chen</u>**, Xiangyu Xu, Xinliang Zhong, Xingwei Qu, Songpengcheng Xia, Guoqing Liu, Liu Liu, Wenxian Yu, Ling Pei
   
-- [TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](https://ieeexplore.ieee.org/abstract/document/10981980/) [[PDF]](https://arxiv.org/pdf/2410.13240)  [![](https://img.shields.io/github/stars/Yaepiii/TRLO?style=social&label=Code+Stars)](https://github.com/Yaepiii/TRLO)
-
+- [TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](https://ieeexplore.ieee.org/abstract/document/10981980/) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{jia2025trlo,
+    title={TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal},
+    author={Jia, Yanpeng and Wang, Ting and Cao, Fengkui and Chen, Xieyuanli and Shao, Shiliang and Liu, Lianqing},
+    journal={IEEE Transactions on Instrumentation and Measurement},
+    year={2025},
+    publisher={IEEE}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2410.13240" class="pub-link">[PDF]</a>
+   <a href="https://github.com/Yaepiii/TRLO">
+     <img src="https://img.shields.io/github/stars/Yaepiii/TRLO?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
   *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*
   
   Yanpeng Jia, Ting Wang, **<u>Xieyuanli Chen</u>**, Shiliang Shao
   
- - [RID-Net: A Hybrid MLP-Transformer network for Robust Point Cloud Registration](https://ieeexplore.ieee.org/document/10910198) [[PDF]](https://ieeexplore.ieee.org/document/10910198)  [![](https://img.shields.io/github/stars/PANFEI-CHENG/RID-Net?style=social&label=Code+Stars)](https://github.com/PANFEI-CHENG/RID-Net)
-
+ - [RID-Net: A Hybrid MLP-Transformer network for Robust Point Cloud Registration](https://ieeexplore.ieee.org/document/10910198) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{cheng2025rid,
+    title={RID-Net: A Hybrid MLP-Transformer Network for Robust Point Cloud Registration},
+    author={Cheng, Panfei and Yu, Hongshan and Liu, Changxiang and Luo, Kan and Akhtar, Naveed and Chen, Xieyuanli},
+    journal={IEEE Robotics and Automation Letters},
+    year={2025},
+    publisher={IEEE}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/10910198" class="pub-link">[PDF]</a>
+   <a href="https://github.com/PANFEI-CHENG/RID-Net">
+     <img src="https://img.shields.io/github/stars/PANFEI-CHENG/RID-Net?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
    *IEEE Robotics and Automation Letters **(RA-L)***
   
    Panfei Cheng, Hongshan Yu, Changxiang Liu, Kan Luo, Naveed Akhtar, **<u>Xieyuanli Chen</u>**
