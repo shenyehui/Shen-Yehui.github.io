@@ -2,8 +2,24 @@
 
 # 📝 Publications
 ##  2025
-- [Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration](https://ieeexplore.ieee.org/document/11176430) [[PDF]](https://arxiv.org/pdf/2509.08354)  [![](https://img.shields.io/github/stars/nubot-nudt/UGNA-VPR?style=social&label=Code+Stars)](https://grasplikehuman.github.io/)
-
+- [Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration](https://ieeexplore.ieee.org/document/11176430) [[PDF]](https://arxiv.org/pdf/2509.08354)  [![]](https://grasplikehuman.github.io/)
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@article{guo2025grasp,
+   title={Grasp like humans: Learning generalizable multi-fingered grasping from human proprioceptive sensorimotor integration},
+   author={Guo, Ce and Chen, Xieyuanli and Zeng, Zhiwen and Guo, Zirui and Li, Yihong and Xiao, Haoran and Hu, Dewen and Lu, Huimin},
+   journal={IEEE Transactions on Robotics},
+   year={2025},
+   publisher={IEEE}
+ }</code></pre>
+  </div>
+  </details>
+  <a href="https://arxiv.org/pdf/2409.00206" class="pub-link">[PDF]</a>
+  <a href="https://grasplikehuman.github.io" class="pub-link">[Web]</a>
+  </div>
+  
   *IEEE Transactions on Robotics (**T-RO**)*
   
   Ce Guo, **<u>Xieyuanli Chen</u>**, Zhiwen Zeng, Zirui Guo, Yihong Li, Haoran Xiao, Dewen Hu, Huimin Lu
@@ -13,16 +29,18 @@
   <details class="bibtex-details">
     <summary class="bibtex-button">[BibTeX]</summary>
     <div class="bibtex-block">
-      <pre><code>@inproceedings{键名_示例,
-   title     = {Paper Title},
-   author    = {Author, A and Author, B},
-   booktitle = {Conference},
-   year      = {2025},
-   url       = {https://...}
-  }</code></pre>
+      <pre><code>@ARTICLE{10891747,
+   author={Lu, Sha and Xu, Xuecheng and Zhang, Dongkun and Wu, Yuxuan and Lu, Haojian and Chen, Xieyuanli and Xiong, Rong and Wang, Yue},
+   journal={IEEE Transactions on Robotics}, 
+   title={RING#: PR-By-PE Global Localization With Roto-Translation Equivariant Gram Learning},
+   year={2025},
+   volume={41},
+   pages={1861-1881},
+   doi={10.1109/TRO.2025.3543267}
+   }</code></pre>
   </div>
   </details>
-  <a href="https://arxiv.org/pdf/2409.00206" class="pub-link">[PDF]</a>
+  <a href="https://arxiv.org/pdf/2509.08354" class="pub-link">[PDF]</a>
   <a href="https://github.com/lus6-Jenny/RINGSharp">
     <img src="https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars" alt="GitHub stars">
   </a>
@@ -32,14 +50,48 @@
    
    Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
 
-- [BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles](https://ieeexplore.ieee.org/document/11063461) [[PDF]](https://arxiv.org/pdf/2408.01841)  [![](https://img.shields.io/github/stars/zjuluolun/BEVPlace2?style=social&label=Code+Stars)](https://github.com/zjuluolun/BEVPlace2)
-
+- [BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles](https://ieeexplore.ieee.org/document/11063461)
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@article{luo2025bevplace++,
+   title={Bevplace++: Fast, robust, and lightweight lidar global localization for unmanned ground vehicles},
+   author={Luo, Lun and Cao, Si-Yuan and Li, Xiaorui and Xu, Jintao and Ai, Rui and Yu, Zhu and Chen, Xieyuanli},
+   journal={IEEE Transactions on Robotics},
+   year={2025},
+   publisher={IEEE}
+   }</code></pre>
+  </div>
+  </details>
+  <a href="https://arxiv.org/pdf/2408.01841" class="pub-link">[PDF]</a>
+  <a href="https://github.com/zjuluolun/BEVPlace2">
+    <img src="https://img.shields.io/github/stars/zjuluolun/BEVPlace2?style=social&label=Code+Stars" alt="GitHub stars">
+  </a>
+  </div>
+  
   *IEEE Transactions on Robotics (**T-RO**)*
   
   Lun Luo, Si-Yuan Cao, Xiaorui Li, Jintao Xu, Rui Ai, Zhu Yu, **<u>Xieyuanli Chen</u>**
   
  - [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://ieeexplore.ieee.org/abstract/document/10993479/) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10993479/)  [![](https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SegNet4D)
-
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@article{wang2024segnet4d,
+   title={SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud},
+   author={Wang, Neng and Guo, Ruibin and Shi, Chenghao and Wang, Ziyue and Zhang, Hui and Lu, Huimin and Zheng, Zhiqiang and Chen, Xieyuanli},
+   journal={arXiv preprint arXiv:2406.16279},
+   year={2024}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10993479/" class="pub-link">[PDF]</a>
+  <a href="https://github.com/nubot-nudt/SegNet4D">
+    <img src="https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars" alt="GitHub stars">
+  </a>
+  </div>
    *IEEE Transactions on Automation Science and Engineering (**T-ASE**)*
 
    Neng Wang, Ruibin Guo, Chenghao Shi, Ziyue Wang, Hui Zhang, Huimin Lu, Zhiqiang Zheng, **<u>Xieyuanli Chen</u>**
