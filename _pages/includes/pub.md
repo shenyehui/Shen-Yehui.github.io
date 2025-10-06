@@ -17,7 +17,8 @@
   </div>
   </details>
   <a href="https://arxiv.org/pdf/2409.00206" class="pub-link">[PDF]</a>
-  <a href="https://grasplikehuman.github.io" class="pub-link">[Web]</a>
+  <a href="https://grasplikehuman.github.io" class="pub-link">[Web]
+  </a>
   </div>
   
   *IEEE Transactions on Robotics (**T-RO**)*
