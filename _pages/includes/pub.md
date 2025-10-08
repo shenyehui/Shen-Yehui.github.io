@@ -161,7 +161,7 @@
 
   Changsong Pang, Xiaomin Zhang, **<u>Xieyuanli Chen</u>**, Hu Xu, Yang Yu, Yuwei Cheng
    
-- [UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/abstract/document/10898027) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10898027)
+- [UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/abstract/document/10898027) 
   <div class="pub-links">
   <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -325,50 +325,193 @@
   
    Fengkui Cao, Shaocong Wang, **<u>Xieyuanli Chen</u>**, Ting Wang, Lianqing Liu
     
-- [Self-Supervised Diffusion-Based Scene Flow Estimation and Motion Segmentation with 4D Radar](https://ieeexplore.ieee.org/document/10974572) [[PDF]](https://ieeexplore.ieee.org/document/10974572) [![](https://img.shields.io/github/stars/nubot-nudt/RadarSFEMOS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RadarSFEMOS)
-
+- [Self-Supervised Diffusion-Based Scene Flow Estimation and Motion Segmentation with 4D Radar](https://ieeexplore.ieee.org/document/10974572) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{liu2025self,
+     title={Self-Supervised Diffusion-Based Scene Flow Estimation and Motion Segmentation with 4D Radar},
+     author={Liu, Yufei and Chen, Xieyuanli and Wang, Neng and Andreev, Stepan and Dvorkovich, Alexander and Fan, Rui and Lu, Huimin},
+     journal={IEEE Robotics and Automation Letters},
+     year={2025},
+     publisher={IEEE}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/10974572" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/RadarSFEMOS">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/RadarSFEMOS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
   *IEEE Robotics and Automation Letters **(RA-L)***
   
    Yufei Liu, **<u>Xieyuanli Chen</u>**, Neng Wang, Stepan Andreev, Alexander Dvorkovich, Rui Fan, Huimin Lu
 
-- [OverlapMamba: A Shift State Space Model for LiDAR-based Place Recognition](https://ieeexplore.ieee.org/abstract/document/11045950) [[PDF]](https://ieeexplore.ieee.org/abstract/document/11045950) [![](https://img.shields.io/github/stars/SCNU-RISLAB/OverlapMamba?style=social&label=Code+Stars)](https://github.com/SCNU-RISLAB/OverlapMamba)
-
+- [OverlapMamba: A Shift State Space Model for LiDAR-based Place Recognition](https://ieeexplore.ieee.org/abstract/document/11045950) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{luo2025overlapmamba,
+     title={Overlapmamba: A shift state space model for lidar-based place recognition},
+     author={Luo, Jiehao and Cheng, Jintao and Xiang, Qiuchi and Wu, Jin and Fan, Rui and Chen, Xieyuanli and Tang, Xiaoyu},
+     journal={IEEE Robotics and Automation Letters},
+     year={2025},
+     publisher={IEEE}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/11045950" class="pub-link">[PDF]</a>
+   <a href="https://github.com/SCNU-RISLAB/OverlapMamba">
+     <img src="https://img.shields.io/github/stars/SCNU-RISLAB/OverlapMamba?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
   *IEEE Robotics and Automation Letters **(RA-L)***
   
    Jiehao Luo, Jintao Cheng, Qiuchi Xiang, Jin Wu, Rui Fan,  **<u>Xieyuanli Chen</u>**, Xiaoyu Tang
   
-- [A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving](https://link.springer.com/article/10.1007/s43684-025-00096-y)  [[PDF]](https://link.springer.com/content/pdf/10.1007/s43684-025-00096-y.pdf)
-
+- [A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving](https://link.springer.com/article/10.1007/s43684-025-00096-y)  
+  <div class="pub-links">
+  <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{fan2025glance,
+    title={A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving},
+    author={Fan, Rui and Li, Jiahang and Li, Jiaqi and Wang, Jiale and Long, Ziwei and Jia, Ning and Liu, Yanan and Wang, Wenshuo and Bocus, Mohammud J and Vityazev, Sergey and others},
+    journal={Autonomous Intelligent Systems},
+    volume={5},
+    number={1},
+    pages={1--15},
+    year={2025},
+    publisher={Springer}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://link.springer.com/content/pdf/10.1007/s43684-025-00096-y.pdf" class="pub-link">[PDF]</a>
+  </div>
+  
   *Autonomous Intelligent Systems*
   
    Rui Fan, Jiahang Li, Jiaqi Li, Jiale Wang, Ziwei Long, Ning Jia, Yanan Liu, Wenshuo Wang, Mohammud J Bocus, Sergey Vityazev, <br />**<u>Xieyuanli Chen</u>**, Junhao Xiao, Stepan Andreev, Huimin Lu, Alexander Dvorkovich
 
-- [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.html) [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.pdf)  [![](https://img.shields.io/github/stars/BIT-XJY/EfficientOCF?style=social&label=Code+Stars)](https://github.com/BIT-XJY/EfficientOCF)
-
+- [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{xu2025spatiotemporal,
+     title={Spatiotemporal decoupling for efficient vision-based occupancy forecasting},
+     author={Xu, Jingyi and Chen, Xieyuanli and Ma, Junyi and Huang, Jiawei and Xu, Jintao and Wang, Yue and Pei, Ling},
+     booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+     pages={22338--22347},
+     year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/BIT-XJY/EfficientOCF">
+     <img src="https://img.shields.io/github/stars/BIT-XJY/EfficientOCF?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
   *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2025)***
 
   Jingyi Xu, **<u>Xieyuanli Chen</u>**, Junyi Ma, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei
 
-- [EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar](https://ojs.aaai.org/index.php/AAAI/article/view/33092) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33092/35247) 
-
+- [EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar](https://ojs.aaai.org/index.php/AAAI/article/view/33092) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{zhang2025edenet,
+     title={EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar},
+     author={Zhang, Pengyu and Chen, Xieyuanli and Chen, Yuwei and Bi, Beizhen and Xu, Zhuo and Jin, Tian and Huang, Xiaotao and Shen, Liang},
+     booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+     volume={39},
+     number={10},
+     pages={10067--10075},
+     year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33092/35247" class="pub-link">[PDF]</a>
+   </div>
+   
   *In Proc. of the Conference on Advancements of Artificial Intelligence **(AAAI 2025)***
 
   Pengyu Zhang, **<u>Xieyuanli Chen</u>**, Yuwei Chen, Beizhen Bi, Zhuo Xu, Tian Jin, Xiaotao Huang, Liang Shen
 
-- [A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data](https://arxiv.org/abs/2503.11097) [[PDF]](https://arxiv.org/pdf/2503.11097) [![](https://img.shields.io/github/stars/nubot-nudt/DOSS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/DOSS)
-
+- [A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data](https://arxiv.org/abs/2503.11097) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{deng2025novel,
+     title={A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data},
+     author={Deng, Wenbang and Chen, Xieyuanli and Yu, Qinghua and He, Yunze and Xiao, Junhao and Lu, Huimin},
+     journal={arXiv preprint arXiv:2503.11097},
+     year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2503.11097" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/DOSS">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/DOSS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
   *In Proc. of the Conference on Advancements of Artificial Intelligence **(ICRA 2025)***
 
   Wenbang Deng, **<u>Xieyuanli Chen</u>**, Qinghua Yu, Yunze He, Junhao Xiao, Huimin Lu
   
-- RLCNet: A Novel Deep Feature-Matching-Based Method for Online Target-Free Radar-LiDAR Calibration [![](https://img.shields.io/github/stars/nubot-nudt/RLCNet?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RLCNet)
-
+- [RLCNet: A Novel Deep Feature-Matching-Based Method for Online Target-Free Radar-LiDAR Calibration](https://ieeexplore.ieee.org/abstract/document/11127342)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{luan2025rlcnet,
+     title={RLCNet: A Novel Deep Feature-Matching-Based Method for Online Target-Free Radar-LiDAR Calibration},
+     author={Luan, Kai and Shi, Chenghao and Chen, Xieyuanli and Fan, Rui and Zheng, Zhiqiang and Lu, Huimin},
+     booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+     pages={3146--3152},
+     year={2025},
+     organization={IEEE}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/11127342" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/RLCNet">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/RLCNet?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
   *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2025)***
   
    Kai Luan,Chenghao Shi, **<u>Xieyuanli Chen</u>**,Rui  Fan,  Zhiqiang Zheng, Huimin Lu
   
-- InsCMPR: Efficient Cross-Modal Place Recognition Via Instance-Aware Hybrid Mamba-Transformer [![](https://img.shields.io/github/stars/nubot-nudt/InsCMPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/InsCMPR)
-
+- [InsCMPR: Efficient Cross-Modal Place Recognition Via Instance-Aware Hybrid Mamba-Transformer](https://ieeexplore.ieee.org/abstract/document/11128210) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{jiao2025inscmpr,
+      title={InsCMPR: Efficient Cross-Modal Place Recognition via Instance-Aware Hybrid Mamba-Transformer},
+      author={Jiao, Shuaifeng and Su, Zhuoqun and Luo, Lun and Yu, Hongshan and Zhou, Zongtan and Lu, Huimin and Chen, Xieyuanli},
+      booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+      pages={2212--2218},
+      year={2025},
+      organization={IEEE}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/11128210" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/InsCMPR">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/InsCMPR?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
   *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2025)***
   
   Shuaifeng Jiao, Zhuoqun Su, Lun Luo, Hongshan Yu, Zongtan Zhou, Huimin Lu, **<u>Xieyuanli Chen</u>**
