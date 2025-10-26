@@ -24,7 +24,7 @@
    
   *IEEE Robotics and Automation Letters **(RA-L)***
   
-   Yehui Shen, Lei Zhang, Qingqiu Li, Xiongwei Zhao, Yue Wang, Huimin Lu, **<u>Xieyuanli Chen</u>**
+   **<u>Yehui Shen</u>**, Lei Zhang, Qingqiu Li, Xiongwei Zhao, Yue Wang, Huimin Lu, Xieyuanli Chen
 
  - [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/abs/2503.12350)  [[PDF]](https://arxiv.org/pdf/2503.12350) [![](https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ResLPR)
    <div class="pub-links">
@@ -47,7 +47,7 @@
    
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
-   Wenqing Kuang, Xiongwei Zhao, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, **<u>Xieyuanli Chen</u>**
+   Wenqing Kuang, Xiongwei Zhao, **<u>Yehui Shen</u>**, Congcong Wen, Huimin Lu, Zongtan Zhou, Xieyuanli Chen
   
 ##  2024
 - [TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation](https://ieeexplore.ieee.org/document/10611612)  
@@ -73,6 +73,6 @@
    
   *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2024)***
   
-  Yehui Shen, Mingmin Liu, Huimin Lu, **<u>Xieyuanli Chen</u>**
+  **<u>Yehui Shen</u>**, Mingmin Liu, Huimin Lu, **<u>Xieyuanli Chen</u>**
   
 
