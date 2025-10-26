@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xieyuanli Chen"
-description              : "Associate Professor at NUDT"
-repository               : "Chen-Xieyuanli/Chen-Xieyuanli.github.io"
+title                    : "Yehui Shen"
+description              : "Phd candidate at NUDT"
+repository               : "shenyehui/Shen-Yehui.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,15 +22,15 @@ baidu_site_verification  : code-ZxFK3f4pfb
     
 # Site Author
 author:
-  name             : "Xieyuanli Chen"
-  avatar           : "images/my-photo-new.png"
-  bio              : "陈谢沅澧"
+  name             : "Yehui Shen"
+  avatar           : "images/my-picture.png"
+  bio              : "沈业辉"
   location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=DvrngV4AAAAJ"
-  email            : "xieyuanli.chen@hotmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Xieyuanli-Chen"
+  googlescholar    : ""
+  email            : "shenyehui2000@163.com"
+  researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Chen-Xieyuanli"
+  github           : "shenyehi"
   google_plus      :
   keybase          :
   instagram        :
@@ -46,7 +46,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : #"https://dblp.org/pid/207/2256.html"
-  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0003-0955-6681"
+  orcid            : #""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
